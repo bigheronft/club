@@ -1,0 +1,184 @@
+Uri: https://bigheronft.club/
+File Name: c:\Downloaded Web Sites\bigheronft.club\index.htm
+Content Type: text/html
+
+Uri: https://bigheronft.club/css/bootstrap.css
+File Name: c:\Downloaded Web Sites\bigheronft.club\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://bigheronft.club/css/fontawesome-all.css
+File Name: c:\Downloaded Web Sites\bigheronft.club\css\fontawesome-all.css
+Content Type: text/css
+
+Uri: https://bigheronft.club/css/swiper.css
+File Name: c:\Downloaded Web Sites\bigheronft.club\css\swiper.css
+Content Type: text/css
+
+Uri: https://bigheronft.club/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\bigheronft.club\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://bigheronft.club/css/styles.css
+File Name: c:\Downloaded Web Sites\bigheronft.club\css\styles.css
+Content Type: text/css
+
+Uri: https://bigheronft.club/images/logo.png
+File Name: c:\Downloaded Web Sites\bigheronft.club\images\logo.png
+Content Type: image/png
+
+Uri: https://bigheronft.club/images/ow1.png
+File Name: c:\Downloaded Web Sites\bigheronft.club\images\ow1.png
+Content Type: image/png
+
+Uri: https://bigheronft.club/images/ow5.png
+File Name: c:\Downloaded Web Sites\bigheronft.club\images\ow5.png
+Content Type: image/png
+
+Uri: https://bigheronft.club/SVG/presale.svg
+File Name: c:\Downloaded Web Sites\bigheronft.club\SVG\presale.svg
+Content Type: image/svg+xml
+
+Uri: https://bigheronft.club/SVG/airdrop.svg
+File Name: c:\Downloaded Web Sites\bigheronft.club\SVG\airdrop.svg
+Content Type: image/svg+xml
+
+Uri: https://bigheronft.club/SVG/refer.svg
+File Name: c:\Downloaded Web Sites\bigheronft.club\SVG\refer.svg
+Content Type: image/svg+xml
+
+Uri: https://bigheronft.club/images/ow2.png
+File Name: c:\Downloaded Web Sites\bigheronft.club\images\ow2.png
+Content Type: image/png
+
+Uri: https://bigheronft.club/images/ow3.png
+File Name: c:\Downloaded Web Sites\bigheronft.club\images\ow3.png
+Content Type: image/png
+
+Uri: https://bigheronft.club/images/ow4.png
+File Name: c:\Downloaded Web Sites\bigheronft.club\images\ow4.png
+Content Type: image/png
+
+Uri: https://bigheronft.club/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\bigheronft.club\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://bigheronft.club/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\bigheronft.club\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://bigheronft.club/js/jquery.easing.min.js
+File Name: c:\Downloaded Web Sites\bigheronft.club\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://bigheronft.club/js/jquery.magnific-popup.js
+File Name: c:\Downloaded Web Sites\bigheronft.club\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://bigheronft.club/js/swiper.min.js
+File Name: c:\Downloaded Web Sites\bigheronft.club\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://bigheronft.club/js/scripts.js
+File Name: c:\Downloaded Web Sites\bigheronft.club\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://bigheronft.club/js/web3.js
+File Name: c:\Downloaded Web Sites\bigheronft.club\js\web3.js
+Content Type: application/javascript
+
+Uri: https://bigheronft.club/js/app.js
+File Name: c:\Downloaded Web Sites\bigheronft.club\js\app.js
+Content Type: application/javascript
+
+Uri: https://bigheronft.club/webfonts/fa-brands-400.eot
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bigheronft.club/webfonts/fa-brands-400d41dd41d.eot?
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-brands-400d41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bigheronft.club/webfonts/fa-brands-400.woff2
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://bigheronft.club/webfonts/fa-brands-400.woff
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://bigheronft.club/webfonts/fa-brands-400.ttf
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://bigheronft.club/webfonts/fa-brands-400.svg
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bigheronft.club/webfonts/fa-regular-400.eot
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bigheronft.club/webfonts/fa-regular-400d41dd41d.eot?
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-regular-400d41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bigheronft.club/webfonts/fa-regular-400.woff2
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://bigheronft.club/webfonts/fa-regular-400.woff
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://bigheronft.club/webfonts/fa-regular-400.ttf
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://bigheronft.club/webfonts/fa-regular-400.svg
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bigheronft.club/webfonts/fa-solid-900.eot
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bigheronft.club/webfonts/fa-solid-900d41dd41d.eot?
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-solid-900d41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bigheronft.club/webfonts/fa-solid-900.woff2
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://bigheronft.club/webfonts/fa-solid-900.woff
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://bigheronft.club/webfonts/fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://bigheronft.club/webfonts/fa-solid-900.svg
+File Name: c:\Downloaded Web Sites\bigheronft.club\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://bigheronft.club/images/down-arrow.png
+File Name: c:\Downloaded Web Sites\bigheronft.club\images\down-arrow.png
+Content Type: image/png
+
+Uri: https://bigheronft.club/images/header-background.png
+File Name: c:\Downloaded Web Sites\bigheronft.club\images\header-background.png
+Content Type: image/png
+
+Uri: https://bigheronft.club/images/details-1-background.png
+File Name: c:\Downloaded Web Sites\bigheronft.club\images\details-1-background.png
+Content Type: image/png
+
+Uri: https://bigheronft.club/images/details-3-background.png
+File Name: c:\Downloaded Web Sites\bigheronft.club\images\details-3-background.png
+Content Type: image/png
+
+Uri: https://bigheronft.club/images/up-arrow.png
+File Name: c:\Downloaded Web Sites\bigheronft.club\images\up-arrow.png
+Content Type: image/png
+
